@@ -1,0 +1,42 @@
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\JCSoftwares_CM.dll.config
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\JCSoftwares_CM.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\JCSoftwares_CM.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\Newtonsoft.Json.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.WebHost.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\Newtonsoft.Json.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.WebHost.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - CM\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\JCSoftwares_CM.dll.config
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\JCSoftwares_CM.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\JCSoftwares_CM.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\Newtonsoft.Json.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.WebHost.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\Newtonsoft.Json.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\bin\System.Web.Http.WebHost.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - CM\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\JCSoftwares_CM.dll.config
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\JCSoftwares_CM.dll
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\JCSoftwares_CM.pdb
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\Newtonsoft.Json.dll
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\System.Web.Http.dll
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\System.Web.Http.WebHost.dll
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\Newtonsoft.Json.xml
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\System.Web.Http.xml
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\bin\System.Web.Http.WebHost.xml
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.dll
+D:\PERSONAL FILES\GitHub\test_00_cm\JBCSoftwares_CM\obj\Debug\JCSoftwares_CM.pdb
